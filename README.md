@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haidi</h1>
 <h3 align="center">I am a passionate ML and Software engineer i love building products.</h3>
 
-- 🔭 I’m currently working on **Building Microservices for PQUIT solution**
+- 🔭 I’m currently working on **Building Microservices for a startup called Pquit**
 
-- 🌱 I’m currently learning **More about Data Engineeirn**
+- 🌱 I’m currently learning **More about Data Engineering**
 
 - 👯 I’m looking to collaborate on **Projects for monitoring AI solution**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://elhaidi.github.io/](https://elhaidi.github.io/)
 
-- 💬 Ask me about **Deep Learningm Deploying ML solutions in production and Distrbuted Computing.**
+- 💬 Ask me about **Deep Learning, Deploying ML solutions in production and Distrbuted Computing.**
 
 - 📫 How to reach me **abdessalam.elhaidi@gmail.com**
 
