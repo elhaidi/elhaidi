@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haidi</h1>
 <h3 align="center">I am a passionate ML and Software engineer i love building products.</h3>
 
-- 🔭 I’m currently working on **Building Microservices for a startup called Pquit**
+- 🔭 I’m currently working on **Building Microservices for a startup called Pquit related to addiction**
 
 - 🌱 I’m currently learning **More about Data Engineering**
 
